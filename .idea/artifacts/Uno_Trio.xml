@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Uno_Trio">
+    <output-path>$PROJECT_DIR$/out/artifacts/Uno_Trio</output-path>
+    <root id="archive" name="Uno_Trio.jar">
+      <element id="module-output" name="UnoTrio" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

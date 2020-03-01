@@ -1,0 +1,1 @@
+java.exe -jar Uno_Trio.jar
